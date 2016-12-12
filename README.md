@@ -1,2 +1,5 @@
 # hello-world
-GitHub Tutorial Exercise
+
+Hello Humans!
+
+I am about to start my journey into Web Development.
